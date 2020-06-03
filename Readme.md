@@ -12,7 +12,7 @@ Address data is stored in a txt file, and can be used in static hosting such as 
 
 To make that data cross-domain accessible, to retrieve data I use iframe and postmessage instead of ajax.
 
-I recommend you copy the <b>docs</b> folder on your own hosting, but to make it easy, you can also use the src script tag that points to this github page, although I don't know the extent to which the github page can be relied upon if used for many websites.
+I recommend you copy the **docs** folder on your own hosting, but to make it easy, you can also use the src script tag that points to this github page, although I don't know the extent to which the github page can be relied upon if used for many websites.
 
 
 Examples of uses :
