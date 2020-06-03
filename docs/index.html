@@ -6,7 +6,10 @@
         <style> 
             select{
                 padding: 5px;
-                width: 200px;
+                width: 100%;
+                -moz-box-sizing: border-box; 
+                -webkit-box-sizing: border-box; 
+                box-sizing: border-box; 
             }
             #ctn{
                 margin-left: auto;
@@ -32,6 +35,14 @@
                 position: fixed;
                 right: 0px;
                 top: 0px;
+                height: 140px;
+                width: 140px;
+            }
+            @media only screen and (max-width: 700px) {
+                .forkgithub {
+                    height: 100px;
+                    width: 100px;
+                }
             }
         </style>
     </head>
@@ -82,7 +93,7 @@
                     </tr>
                 </table>
             </div>
-            <a href="https://github.com/nnttoo/indonesiaaddselector"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149" class="forkgithub" alt="Fork me on GitHub" data-recalc-dims="1"></a>
+            <a href="https://github.com/nnttoo/indonesiaaddselector"><img  src="https://github.blog/wp-content/uploads/2008/12/forkme_right_red_aa0000.png?resize=149%2C149" class="forkgithub" alt="Fork me on GitHub" data-recalc-dims="1"></a>
         </div>
         
 
