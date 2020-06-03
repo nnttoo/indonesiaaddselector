@@ -39,7 +39,7 @@ module.exports = {
     target : 'web',
     entry: {
         server : './src/server.js',
-        view : './src/view.js',
+        client : './src/client.js',
         viewimplement : './src/viewimplement.js'
     },
     optimization: {
@@ -48,7 +48,7 @@ module.exports = {
     output: {
         path: resolve('../docs/js'),
         publicPath: '',
-        library: 'indoselector', 
+        library: 'indoselector[name]', 
         filename: 'bundle[name].js' 
     }, 
 

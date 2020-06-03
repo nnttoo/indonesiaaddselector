@@ -1,16 +1,11 @@
-var loader = new indoselector.KotaIndoSelector();
+var loader = new indoselectorclient.KotaIndoSelector();
 loader.server = "https://nnttoo.github.io/indonesiaaddselector/loader.html"
 
 
 loader.load(function(){     
     function nulOrUndef(txt){
         return (typeof(txt) == "undefined" || txt == "")
-    }
-
-
-    function loadData(funname,childElem){
-        
-    }
+    } 
 
     $('.locselector').on("change",function(ev){ 
         var target = $(ev.target); 

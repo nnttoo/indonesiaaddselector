@@ -20,9 +20,9 @@ Examples of uses :
 <html>
 <body>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js" ></script>
-<script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleview.js"></script>   
+<script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleclient.js"></script>
 <script>
-     var loader = new indoselector.KotaIndoSelector();
+     var loader = new indoselectorclient.KotaIndoSelector();
         loader.server = "https://nnttoo.github.io/indonesiaaddselector/loader.html" 
 
         loader.load(function(){    
