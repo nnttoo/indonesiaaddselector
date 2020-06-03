@@ -25,3 +25,40 @@ Examples of uses :
             });
     </script>
 ```
+
+## Demo
+[Demo Page](https://nnttoo.github.io/indonesiaaddselector/)
+
+## List Function
+
+### getProv(callback)
+take all provincies
+example : 
+```js
+    loader.getProv(function(data){
+        data.forEach(codename){
+            console.log(codename.code) // print code
+            console.log(codename.name) // print name
+        }
+    })
+```
+
+### getKab(code,callback) 
+get all kabupaten/kota that matches the code
+example : 
+```js
+    loader.getKab("11",function(data){
+        data.forEach(codename){
+            console.log(codename.code) // print code
+            console.log(codename.name) // print name
+        }
+    })
+```
+
+### getKec(code,callback) 
+get kecamatan that matches the code
+
+### getDes(code,callback)
+get desa that matches the code
+
+ 
