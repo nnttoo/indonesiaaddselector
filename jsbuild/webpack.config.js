@@ -39,7 +39,8 @@ module.exports = {
     target : 'web',
     entry: {
         server : './src/server.js',
-        view : './src/view.js'
+        view : './src/view.js',
+        viewimplement : './src/viewimplement.js'
     },
     optimization: {
         minimize: true
