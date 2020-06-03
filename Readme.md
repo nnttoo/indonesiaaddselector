@@ -8,3 +8,7 @@ If you want it to be easier, just leave the data file here, and use the src scri
 
 
 Examples of uses :
+```html
+    <script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleview.js"></script>
+
+```

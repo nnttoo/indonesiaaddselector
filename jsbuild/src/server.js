@@ -33,7 +33,7 @@ class LoaderKota{
     }
 
     publicGetAjax(path, cb){
-        $.get("/kotadb/" + path,function(data){
+        $.get("kotadb/" + path,function(data){
             cb(data)
         })
     }
