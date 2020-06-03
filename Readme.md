@@ -8,6 +8,10 @@ Make an Indonesian address selector on your website, for shipping addresses or s
 
 Data for all districts and cities for all of Indonesia is relatively small, we don't need to use databases like mysql for things like this.
 
+Address data is stored in a txt file, and can be used in static hosting such as the github page. to be more efficient, I separate the txt file for each province, so that the address text file becomes smaller. one text is only around 50kb.
+
+To make that data cross-domain accessible, to retrieve data I use iframe and postmessage instead of ajax.
+
 I recommend you copy the <b>docs</b> folder on your own hosting, but to make it easy, you can also use the src script tag that points to this github page, although I don't know the extent to which the github page can be relied upon if used for many websites.
 
 
