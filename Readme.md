@@ -10,5 +10,18 @@ If you want it to be easier, just leave the data file here, and use the src scri
 Examples of uses :
 ```html
     <script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleview.js"></script>
+    <script>
+         var loader = new indoselector.KotaIndoSelector();
+            loader.server = "https://nnttoo.github.io/indonesiaaddselector/loader.html"
+ 
 
+            loader.load(function(){    
+                    loader.getProv(function(data){
+                        data.forEach(codename){
+                            console.log(codename.code) // print code
+                            console.log(codename.name) // print name
+                        }
+                    })
+            });
+    </script>
 ```
