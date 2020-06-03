@@ -1,6 +1,6 @@
 # Indonesia Address Selector Pure JS #
 
-Taking addresses for shipping or something like that, this uses pure javascript and static files, without the need to use a database.
+Make an address selector on your website, for shipping addresses or something like that, with pure javascript and static files without a database.
 
 If you want to save it on your server, use the docs folder, there are already data files and javascript ready to use for your website.
 
