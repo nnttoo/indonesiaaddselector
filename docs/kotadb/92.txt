@@ -1,0 +1,2069 @@
+92|PAPUA BARAT
+92.01|KAB. SORONG
+92.01.01|Makbon
+92.01.01.1001|Makbon
+92.01.01.2002|Asbaken
+92.01.01.2004|Malaumkarta
+92.01.01.2005|Batu Lubang
+92.01.01.2007|Batu Lubang Pantai
+92.01.01.2008|Kwadas
+92.01.01.2009|Bainkete
+92.01.01.2010|Teluk Dore
+92.01.01.2011|Sawatuk
+92.01.01.2012|Malagasih
+92.01.01.2013|Klasimigik
+92.01.01.2014|Klasigi
+92.01.01.2015|Klagulus
+92.01.01.2016|Suatolo
+92.01.01.2017|Mibi
+92.01.04|Beraur
+92.01.04.2001|Klabra
+92.01.04.2002|Wanurian
+92.01.04.2009|Klarion
+92.01.04.2011|Kaas
+92.01.04.2015|Wensi
+92.01.04.2016|Mumpi
+92.01.04.2019|Klamak
+92.01.04.2020|Serselion
+92.01.04.2022|Kmafo
+92.01.04.2027|Midlal
+92.01.04.2028|Sorain
+92.01.04.2033|Armoin
+92.01.04.2034|Serselion Baru
+92.01.05|Salawati
+92.01.05.1001|Katinim
+92.01.05.1006|Majener
+92.01.05.1007|Majaran
+92.01.05.1009|Matawolot
+92.01.05.2011|Walal
+92.01.05.2012|Malaus
+92.01.05.2018|Rawa Sugi
+92.01.06|Seget
+92.01.06.2001|Seget
+92.01.06.2004|Malaban
+92.01.06.2005|Pulau Kasim
+92.01.06.2010|Kasimle
+92.01.06.2011|Wewenagu
+92.01.06.2012|Wasingsan
+92.01.06.2013|Klayas
+92.01.06.2014|Wayenkede
+92.01.06.2015|Mobi
+92.01.07|Aimas
+92.01.07.1001|Aimas
+92.01.07.1002|Malawili
+92.01.07.1003|Malawele
+92.01.07.1006|Mariat Pantai
+92.01.07.1026|Mariat Gunung
+92.01.07.1029|Warmon
+92.01.07.1030|Klabinain
+92.01.07.1031|Malasom
+92.01.07.1032|Klaigit
+92.01.07.1034|Malagusa
+92.01.07.1035|Klafma
+92.01.07.2028|Maibo
+92.01.07.2033|Aimo
+92.01.07.2038|Malasaum
+92.01.08|Klamono
+92.01.08.2001|Klawana
+92.01.08.2002|Klamano
+92.01.08.2003|Wariayau
+92.01.08.2008|Klamono
+92.01.08.2009|Wonosari
+92.01.08.2010|Gisim Darat
+92.01.08.2013|Mlais
+92.01.08.2020|Mlasmily
+92.01.08.2021|Klasafet
+92.01.08.2022|Posa
+92.01.10|Sayosa
+92.01.10.2001|Sayosa
+92.01.10.2004|Maladofok
+92.01.10.2006|Yorbes
+92.01.10.2011|Samusa
+92.01.10.2012|Klamintu
+92.01.10.2014|Klain
+92.01.12|Segun
+92.01.12.2001|Segun
+92.01.12.2002|Gisim
+92.01.12.2003|Waimon
+92.01.12.2004|Klasegun
+92.01.12.2005|Waimlabat
+92.01.12.2006|Majemau
+92.01.12.2008|Klasin
+92.01.12.2009|Klajaring
+92.01.12.2010|Malamas
+92.01.13|Mayamuk
+92.01.13.1001|Makbusum
+92.01.13.1002|Makbalim
+92.01.13.1003|Makotyamsa
+92.01.13.2004|Jeflio
+92.01.13.2005|Arar
+92.01.13.2006|Klalin
+92.01.13.2007|Klasmelek
+92.01.13.2008|Wen
+92.01.13.2009|Warmon Kokoda
+92.01.13.2010|Asjidba
+92.01.13.2011|Malamay
+92.01.14|Salawati Selatan
+92.01.14.2001|Sailolof
+92.01.14.2002|Klotlol
+92.01.14.2007|Dulbatan
+92.01.14.2008|Manoket
+92.01.14.2011|Payapop
+92.01.14.2012|Masmaspop
+92.01.17|Klabot
+92.01.17.2003|Indiwi
+92.01.17.2004|Klabot
+92.01.17.2005|Mlat
+92.01.17.2008|Mlawes
+92.01.17.2009|Mlasfa
+92.01.17.2010|Kanolo
+92.01.17.2014|Somir
+92.01.17.2015|Warkti
+92.01.18|Klawak
+92.01.18.2001|Wilty
+92.01.18.2004|Mlawen
+92.01.18.2008|Byaklokfle
+92.01.18.2009|Tbotjin
+92.01.18.2010|Sas
+92.01.18.2011|Samolslo
+92.01.18.2012|Kmasen
+92.01.18.2013|Klasawon
+92.01.18.2014|Yurkaden
+92.01.18.2015|Mlaron
+92.01.18.2019|Betwaft
+92.01.18.2025|Cokif
+92.01.20|Maudus
+92.01.20.2001|Luwelala
+92.01.20.2003|Klatim
+92.01.20.2004|Klaos
+92.01.20.2006|Suluh
+92.01.20.2009|Bosi
+92.01.20.2010|Kamuyar
+92.01.20.2011|Klaka
+92.01.20.2012|Safdesa
+92.01.20.2015|Klagen
+92.01.39|Mariat
+92.01.39.1001|Klamalu
+92.01.39.1002|Mariyai
+92.01.39.1003|Klasukuk
+92.01.39.1004|Klamasen
+92.01.39.1009|Maklalut
+92.01.39.1010|Klaru
+92.01.39.1011|Jamaimo
+92.01.39.2005|Klaben
+92.01.39.2007|Klasan
+92.01.39.2008|Fafi
+92.01.39.2012|Kasih
+92.01.40|Klayili
+92.01.40.2001|Klayili
+92.01.40.2002|Klawuluh
+92.01.40.2003|Malakobutu
+92.01.40.2004|Kwakeik
+92.01.40.2005|Klasowoh
+92.01.40.2006|Malalilis
+92.01.40.2007|Mlawer
+92.01.40.2008|Klatomok
+92.01.41|Klaso
+92.01.41.2002|Siwis
+92.01.41.2003|Miskum
+92.01.41.2004|Klamugun
+92.01.41.2006|Sbaga
+92.01.41.2007|Klalik
+92.01.41.2008|Malawhili
+92.01.41.2013|Klasou
+92.01.42|Moisegen
+92.01.42.2001|Klafdalim
+92.01.42.2002|Klaforo
+92.01.42.2003|Klasof
+92.01.42.2004|Ninjemur
+92.01.42.2005|Klasarin
+92.01.42.2006|Klawoton
+92.01.42.2007|Wonosobo
+92.01.42.2008|Sakamerin
+92.01.42.2009|Masmili
+92.01.43|Sorong
+92.01.43.2001|Maibo
+92.01.43.2002|Malaflon
+92.01.43.2003|Kabanmolo
+92.01.43.2004|Klatok
+92.01.44|Bagun
+92.01.44.2001|Disfra
+92.01.44.2002|Bagun
+92.01.44.2003|Klawom
+92.01.44.2004|Klamomis
+92.01.44.2005|Klakwonrit
+92.01.44.2006|Mode
+92.01.44.2007|Bratmawe
+92.01.44.2008|Klawon
+92.01.44.2009|Mlamli
+92.01.45|Wemak
+92.01.45.2001|Saluk
+92.01.45.2002|Klawren
+92.01.45.2003|Woloin
+92.01.45.2004|Klalin Mos
+92.01.45.2005|Kwari
+92.01.45.2006|Kamlin
+92.01.46|Sunook
+92.01.46.2001|Dasri
+92.01.46.2002|Masos
+92.01.46.2003|Ketawas
+92.01.46.2004|Warbo
+92.01.46.2005|Suus
+92.01.46.2006|Sulya
+92.01.46.2007|Bolwi
+92.01.47|Buk
+92.01.47.2001|Buk
+92.01.47.2002|Mlakhan
+92.01.47.2003|Klais
+92.01.47.2004|Mimpe
+92.01.47.2005|Tiklen
+92.01.47.2006|Klahen
+92.01.47.2007|Moos
+92.01.48|Saengkeduk
+92.01.48.2001|Saengkeduk
+92.01.48.2002|Selekobo
+92.01.48.2003|Suye
+92.01.48.2004|Klamede
+92.01.48.2005|Sambatie
+92.01.48.2006|Klagele
+92.01.49|Malabotom
+92.01.49.2001|Malasigit
+92.01.49.2002|Klagulu
+92.01.49.2003|Klamugun
+92.01.49.2004|Malajapa
+92.01.49.2005|Klasman
+92.01.49.2006|Malamoja
+92.01.49.2007|Magatarum
+92.01.49.2008|Tanah Tinggi
+92.01.49.2009|Marik May
+92.01.50|Konhir
+92.01.50.2001|Tarsa
+92.01.50.2002|Klamne
+92.01.50.2003|Wisbiak
+92.01.50.2004|Klafyo
+92.01.50.2005|Mlasiwor
+92.01.50.2006|Klafelem
+92.01.50.2007|Klaflum
+92.01.50.2008|Klarin
+92.01.51|Klasafet
+92.01.51.2001|Maladuk
+92.01.51.2002|Klamono Oil
+92.01.51.2003|Bar Ros
+92.01.51.2004|Pusu Tiligum
+92.01.51.2005|Klawili Be
+92.01.52|Hobard
+92.01.52.2001|Hobard
+92.01.52.2002|Brianlo
+92.01.52.2003|Floyi
+92.01.52.2004|Klazelth
+92.01.52.2005|Sfadon
+92.01.52.2006|Selol
+92.01.52.2007|Dais
+92.01.53|Salawati Tengah
+92.01.53.2001|Waliam
+92.01.53.2002|Manfanim
+92.01.53.2003|Waibin
+92.01.53.2004|Waiman
+92.01.53.2005|Sakapul
+92.01.53.2006|Maralol
+92.01.53.2007|Batbiro
+92.01.53.2008|Durian Kari
+92.01.53.2009|Meyaup
+92.01.53.2010|Sailen
+92.01.54|Botain
+92.01.54.2001|Klafluk
+92.01.54.2002|Mamsit
+92.01.54.2003|Sabake
+92.01.54.2004|Klayastani
+92.01.55|Sayosa Timur
+92.01.55.2001|Sailala
+92.01.55.2002|Klawana
+92.01.55.2003|Kladuk
+92.01.55.2004|Klawon
+92.01.55.2005|Klakak
+92.01.55.2006|Klalwok
+92.02|KAB. MANOKWARI
+92.02.03|Warmare
+92.02.03.2001|Dindey
+92.02.03.2002|Indisey
+92.02.03.2003|Hingk
+92.02.03.2004|Warmare
+92.02.03.2005|Nimbay
+92.02.03.2006|Meny
+92.02.03.2007|Tanah Merah
+92.02.03.2008|Umcen
+92.02.03.2009|Subsay
+92.02.03.2010|Madrat
+92.02.03.2011|Snaimboy
+92.02.03.2012|Guentuy
+92.02.03.2013|Ngungguen
+92.02.03.2014|Sotea
+92.02.03.2015|Duwin
+92.02.03.2016|Ibuwau
+92.02.03.2017|Iboisrati
+92.02.03.2018|Sraindabey
+92.02.03.2019|Mokwam
+92.02.03.2020|Amber
+92.02.03.2021|Kwau
+92.02.03.2022|Syou
+92.02.03.2023|Indonbey
+92.02.03.2024|Mingre
+92.02.03.2025|Aiwow
+92.02.03.2026|Asarbey
+92.02.03.2027|Minoqbei
+92.02.03.2028|Bahamyenti
+92.02.03.2029|Figoud
+92.02.03.2030|Kipuwau
+92.02.03.2031|Duweibey
+92.02.04|Prafi
+92.02.04.2001|Prafi Mulya
+92.02.04.2002|Umbuy
+92.02.04.2003|Desay
+92.02.04.2004|Aimasi
+92.02.04.2005|Udapi Hilir
+92.02.04.2006|Waseki Pop
+92.02.04.2007|Wasegi Indah
+92.02.04.2008|Ingkwoisi
+92.02.04.2009|Bogor
+92.02.04.2010|Somi
+92.02.04.2011|Bedip Matoa
+92.02.04.2012|Kali Amin
+92.02.04.2013|Lismaungu
+92.02.04.2014|Uhyehebrig
+92.02.04.2015|Kerenu
+92.02.04.2016|Mebji
+92.02.05|Masni
+92.02.05.2001|Masni
+92.02.05.2002|Sumber Boga
+92.02.05.2003|Prafi Barat
+92.02.05.2004|Muara Prafi
+92.02.05.2006|Macuan
+92.02.05.2008|Wariori
+92.02.05.2009|Bowi Subur
+92.02.05.2010|Makwan
+92.02.05.2011|Kali Merah
+92.02.05.2012|Meiforga
+92.02.05.2013|Sibuni
+92.02.05.2014|Yensum
+92.02.05.2015|Mansaburi
+92.02.05.2016|Igor
+92.02.05.2017|Merejemeg
+92.02.05.2018|Aurmios
+92.02.05.2020|Sembab
+92.02.05.2024|Membowi
+92.02.05.2027|Yonsoribo
+92.02.05.2028|Meyof II
+92.02.05.2030|Moubja
+92.02.05.2031|Ririnfos
+92.02.05.2032|Muara Wariori
+92.02.05.2034|Koyani
+92.02.05.2035|Meyeruk
+92.02.05.2036|Inyei
+92.02.05.2037|Undi
+92.02.05.2038|Jowen
+92.02.05.2039|Aska
+92.02.05.2040|Mantedi
+92.02.05.2042|Wariori Indah
+92.02.05.2045|Urey
+92.02.05.2046|Wamfoura
+92.02.12|Manokwari Barat
+92.02.12.1001|Manokwari Barat
+92.02.12.1002|Sanggeng
+92.02.12.1003|Wosi
+92.02.12.1004|Amban
+92.02.12.1005|Padarni
+92.02.12.1006|Manokwari Timur
+92.02.12.2007|Udopi
+92.02.12.2008|Ingramui
+92.02.12.2009|Soribo
+92.02.12.2010|Tanah Merah Indah
+92.02.13|Manokwari Timur
+92.02.13.1001|Pasir Putih
+92.02.13.2002|Mansinam
+92.02.13.2003|Ayambori
+92.02.13.2004|Bakaro
+92.02.13.2005|Arowi
+92.02.13.2006|Aipiri
+92.02.13.2007|Susweni
+92.02.14|Manokwari Utara
+92.02.14.2001|Yoom I
+92.02.14.2002|Mandopi
+92.02.14.2003|Mubri
+92.02.14.2004|Yoom II
+92.02.14.2005|Teluk Mubri
+92.02.14.2006|Meyes
+92.02.14.2007|Bremi
+92.02.14.2008|Saubeba
+92.02.14.2009|Pami
+92.02.14.2010|Warbefor
+92.02.14.2011|Asai
+92.02.14.2012|Inya
+92.02.14.2013|Meyunfoka
+92.02.14.2014|Tanah Rubuh
+92.02.14.2015|Sairo
+92.02.14.2016|Singgimeba
+92.02.14.2017|Inoduas
+92.02.14.2018|Lebau
+92.02.14.2020|Cabang Dua
+92.02.14.2021|Yonggam
+92.02.14.2022|Indou Oufa
+92.02.14.2023|Mubraidiba
+92.02.15|Manokwari Selatan
+92.02.15.1001|Sowi
+92.02.15.1002|Anday
+92.02.15.2003|Katebu
+92.02.15.2004|Masyepi
+92.02.15.2005|Warmomi
+92.02.15.2006|Dihara
+92.02.15.2007|Waluri
+92.02.15.2008|Maruni
+92.02.15.2009|Misapmeysi
+92.02.15.2010|Wasai
+92.02.15.2011|Anggresi
+92.02.15.2012|Mupi
+92.02.15.2013|Warswami
+92.02.15.2014|Acemo
+92.02.15.2015|Wamesa
+92.02.15.2016|Dobut
+92.02.15.2017|Warkomi
+92.02.15.2018|Ngunimbouw
+92.02.17|Tanah Rubuh
+92.02.17.2001|Warkapi
+92.02.17.2002|Ayawi
+92.02.17.2003|Ukopti
+92.02.17.2004|Misabugoid
+92.02.17.2005|Mbatma
+92.02.17.2006|Urwambei
+92.02.17.2007|Imbeisika I
+92.02.17.2008|Imbeisika II
+92.02.17.2009|Warmawai
+92.02.17.2010|Rembuy
+92.02.17.2011|Imhasuma
+92.02.17.2012|Cuyehep
+92.02.17.2013|Hanghouw
+92.02.17.2014|Ningdip
+92.02.17.2015|Warami
+92.02.17.2016|Imboiti
+92.02.17.2017|Wariari
+92.02.17.2018|Indibo
+92.02.17.2019|Umnum
+92.02.17.2020|Ukemboisi
+92.02.17.2021|Menyumfoku
+92.02.17.2022|Wedoni
+92.02.17.2023|Mirowi
+92.02.17.2024|Warnyeti
+92.02.21|Sidey
+92.02.21.2001|Kaironi
+92.02.21.2002|Sidey
+92.02.21.2003|Waramui
+92.02.21.2004|Kassi
+92.02.21.2005|Saray
+92.02.21.2006|Sidey Baru
+92.02.21.2007|Sidey Makmur
+92.02.21.2008|Meyof I
+92.02.21.2009|Wariki
+92.02.21.2010|Womnowi
+92.02.21.2011|Manggupi
+92.02.21.2012|Sidey Jaya
+92.03|KAB. FAK FAK
+92.03.01|Fak-Fak
+92.03.01.1001|Fak Fak Selatan
+92.03.01.1002|Fak Fak Utara
+92.03.01.2007|Gewerpe
+92.03.01.2011|Lusi Peri
+92.03.01.2012|Wrikapal
+92.03.02|Fak-Fak Barat
+92.03.02.2001|Werba
+92.03.02.2002|Kiat
+92.03.02.2003|Purwasak
+92.03.02.2008|Wurkendik
+92.03.02.2010|Kwuhkendak
+92.03.02.2011|Purwahab Tonggo
+92.03.02.2012|Pahger Nkindik
+92.03.02.2013|Werba Utara
+92.03.02.2014|Porum
+92.03.03|Fak-Fak Timur
+92.03.03.2001|Tunas Gain
+92.03.03.2003|Urat
+92.03.03.2004|Sanggram
+92.03.03.2010|Weri
+92.03.03.2012|Kiria Bisa
+92.03.03.2013|Saharei
+92.03.04|Kokas
+92.03.04.1001|Kokas Kota
+92.03.04.2003|Mandoni
+92.03.04.2008|Sekar
+92.03.04.2009|Ugar
+92.03.04.2010|Sisir
+92.03.04.2011|Kampung Baru
+92.03.04.2012|Patimburak
+92.03.04.2013|Batufiafas
+92.03.04.2014|Kinam
+92.03.04.2021|Mambunibuni
+92.03.04.2024|Kriawaswas
+92.03.04.2028|Sosar
+92.03.04.2029|Pang Wadar
+92.03.04.2030|Masina
+92.03.04.2031|Kimina Kra
+92.03.05|Fak-Fak Tengah
+92.03.05.1001|Danaweria
+92.03.05.2002|Kayu Merah
+92.03.05.2003|Katemba
+92.03.05.2004|Nemewikarya
+92.03.05.2005|Raduria
+92.03.05.2006|Brongkendik
+92.03.05.2007|Air Besar
+92.03.05.2008|Mandopma
+92.03.05.2009|Kanantare
+92.03.05.2010|Pasir Putih
+92.03.05.2011|Pirma
+92.03.05.2012|Sakartemin
+92.03.05.2013|Hambrangkendik
+92.03.05.2014|Unipokpok
+92.03.06|Karas
+92.03.06.2001|Malakuli
+92.03.06.2002|Faur
+92.03.06.2003|Kiaba
+92.03.06.2004|Antalisa
+92.03.06.2005|Tarak
+92.03.06.2006|Tuberwasak
+92.03.06.2007|Mas
+92.03.07|Bomberay
+92.03.07.2007|Onimsari
+92.03.07.2008|Mekarsari
+92.03.07.2009|Pinang Agung
+92.03.07.2010|Bumi Moroh Indah
+92.03.07.2012|Tesha
+92.03.07.2014|Onim Jaya
+92.03.07.2015|Wono Rejo
+92.03.08|Kramongmongga
+92.03.08.2001|Kramongmongga
+92.03.08.2007|Wargep
+92.03.08.2008|Mamur
+92.03.08.2009|Nembukteb
+92.03.08.2010|Pikpik
+92.03.08.2011|Kwamkwamur
+92.03.08.2012|Bahbadan
+92.03.08.2016|Gewab
+92.03.08.2017|Tentreda
+92.03.08.2018|Mbaham Ma Youn
+92.03.09|Teluk Patipi
+92.03.09.2001|Puar
+92.03.09.2002|Degen
+92.03.09.2003|Tetar
+92.03.09.2005|Sum
+92.03.09.2011|Adora
+92.03.09.2012|Us
+92.03.09.2014|Patipi Pasir
+92.03.09.2015|Patipi Pulau
+92.03.09.2017|Mawar
+92.03.09.2018|Tibatibananam
+92.03.09.2020|Offie
+92.03.09.2021|Muhri
+92.03.09.2022|Bisa
+92.03.10|Pariwari
+92.03.10.1001|Wagom
+92.03.10.1002|Wagom Utara
+92.03.10.1003|Dulanpokpok
+92.03.10.2004|Tanama
+92.03.10.2005|Kapaurtutin
+92.03.10.2006|Sekban
+92.03.10.2007|Torea
+92.03.10.2008|Sekru
+92.03.10.2009|Sukuru Tuare
+92.03.11|Wartutin
+92.03.11.2001|Werpigan
+92.03.11.2002|Werabuan
+92.03.11.2003|Wartutin
+92.03.11.2004|Siboru
+92.03.11.2005|Sipatnanam
+92.03.11.2006|Kamandur Tetar
+92.03.12|Fakfak Timur Tengah
+92.03.12.2001|Waserat
+92.03.12.2002|Wambar
+92.03.12.2003|Kotam
+92.03.12.2004|Kwama
+92.03.12.2005|Kalamanuk
+92.03.12.2006|Wayati Timur
+92.03.12.2007|Wayati
+92.03.12.2008|Wayati Barat
+92.03.12.2009|Krabelang
+92.03.12.2010|Wambar Timur
+92.03.13|Arguni
+92.03.13.2001|Andamata
+92.03.13.2002|Taver
+92.03.13.2003|Arguni
+92.03.13.2004|Fior
+92.03.13.2005|Furir
+92.03.14|Mbahamdandara
+92.03.14.2001|Darembang
+92.03.14.2002|Goras
+92.03.14.2003|Mitimber
+92.03.14.2004|Waremu
+92.03.14.2005|Wos
+92.03.14.2006|Mbahamdandra
+92.03.14.2007|Goras Selatan
+92.03.15|Kayauni
+92.03.15.2001|Kaburbur
+92.03.15.2002|Ubadari
+92.03.15.2004|Homorkokma
+92.03.15.2005|Pattukar
+92.03.15.2006|Kayuni
+92.03.15.2007|Kuagas
+92.03.15.2008|Rangkendak
+92.03.15.2009|Mananmur
+92.03.15.2010|Warpa
+92.03.16|Furwagi
+92.03.16.2001|Salakiti
+92.03.16.2002|Tawar
+92.03.16.2003|Gar
+92.03.16.2004|Rumbati
+92.03.16.2005|Werfra
+92.03.16.2006|Tanehamur
+92.03.16.2007|Sengkiti
+92.03.16.2008|Twootkindik
+92.03.17|Tomage
+92.03.17.2001|Mbima Jaya
+92.03.17.2002|Warisa Mulya
+92.03.17.2003|Wonodadi Mulya
+92.03.17.2004|Tomage
+92.03.17.2005|Otoweri
+92.03.17.2006|Wamosan
+92.03.17.2007|Salawier
+92.03.17.2008|Wasa Mulya
+92.03.17.2009|Wammar
+92.04|KAB. SORONG SELATAN
+92.04.01|Teminabuan
+92.04.01.1005|Kaibus
+92.04.01.1006|Kohoin
+92.04.01.2004|Wersar
+92.04.01.2009|Wehali
+92.04.01.2010|Aibobor
+92.04.01.2017|Wermit
+92.04.01.2018|Keyen
+92.04.01.2021|Siribau
+92.04.01.2025|Magis
+92.04.01.2026|Tegirolo
+92.04.01.2034|Wernas
+92.04.01.2035|Tapiri
+92.04.01.2040|Gorolo
+92.04.01.2041|Nambro
+92.04.01.2044|Seyolo
+92.04.01.2045|Ani Sesna
+92.04.04|Inanwatan
+92.04.04.2001|Mate
+92.04.04.2004|Serkos
+92.04.04.2006|Solta Baru
+92.04.04.2008|Wadoi
+92.04.04.2009|Isogo
+92.04.04.2013|Sibae
+92.04.04.2020|Mogibi
+92.04.04.2026|Odeare
+92.04.04.2027|Siri-siri
+92.04.06|Sawiat
+92.04.06.2001|Sawiat
+92.04.06.2008|Sasnek
+92.04.06.2009|Elles
+92.04.06.2011|Sodrofoyo
+92.04.06.2012|Sfakyo
+92.04.06.2013|Wensough
+92.04.06.2014|Ween
+92.04.06.2015|Wendi
+92.04.09|Kokoda
+92.04.09.2001|Tarof
+92.04.09.2002|Negeri Besar
+92.04.09.2003|Siwatori
+92.04.09.2004|Kasuweri
+92.04.09.2005|Migori
+92.04.09.2006|Tambani
+92.04.09.2010|Daubak
+92.04.09.2011|Totona
+92.04.09.2012|Nayakore
+92.04.09.2014|Arbasina
+92.04.09.2015|Birawaku
+92.04.09.2016|Korewatara
+92.04.09.2017|Tapas
+92.04.09.2018|Topdan
+92.04.09.2020|Migrito
+92.04.09.2021|Daimar
+92.04.10|Moswaren
+92.04.10.2001|Moswaren
+92.04.10.2002|Johsiro
+92.04.10.2003|Hararo
+92.04.10.2004|Bumi Ajo
+92.04.10.2005|Hasik Jaya
+92.04.10.2006|Kamisabe
+92.04.10.2007|Tokass
+92.04.11|Seremuk
+92.04.11.2001|Haha
+92.04.11.2003|Klaogin
+92.04.11.2004|Tofot
+92.04.11.2005|Sbir
+92.04.11.2006|Srer
+92.04.11.2007|Woloin
+92.04.11.2008|Kamaro
+92.04.11.2009|Kakas
+92.04.12|Wayer
+92.04.12.2001|Sungguer
+92.04.12.2002|Unggi
+92.04.12.2003|Boldon
+92.04.12.2004|Sesor
+92.04.12.2005|Waigo
+92.04.12.2006|Bagaraga
+92.04.12.2007|Wardik
+92.04.12.2008|Wayer
+92.04.14|Kais
+92.04.14.2001|Kais
+92.04.14.2002|Tapuri
+92.04.14.2003|Yahadian
+92.04.14.2004|Benawa I
+92.04.14.2006|Sumano
+92.04.15|Konda
+92.04.15.2001|Konda
+92.04.15.2002|Wamargege
+92.04.15.2003|Bariat
+92.04.15.2004|Manelek
+92.04.15.2005|Nagna
+92.04.20|Matemani
+92.04.20.2001|Mugim
+92.04.20.2002|Nusa
+92.04.20.2003|Saga
+92.04.20.2004|Puragi
+92.04.20.2005|Tawanggire
+92.04.20.2006|Bedare
+92.04.21|Kokoda Utara
+92.04.21.2001|Udagaga
+92.04.21.2002|Kayubiro
+92.04.21.2003|Adona
+92.04.21.2004|Benawa II
+92.04.21.2005|Atori
+92.04.21.2006|Kamundan Satu
+92.04.21.2007|Karirif
+92.04.21.2008|Bubuko
+92.04.21.2009|Kamundan Dua
+92.04.22|Saifi
+92.04.22.2001|Manggroholo
+92.04.22.2002|Komanggaret
+92.04.22.2003|Sayal
+92.04.22.2004|Kayabo
+92.04.22.2005|Sisir
+92.04.22.2006|Mlaswat
+92.04.22.2007|Kwowok
+92.04.22.2008|Sira
+92.04.22.2009|Kenaya
+92.04.22.2010|Botain
+92.04.24|Fokour
+92.04.24.2001|Pasir Putih
+92.04.24.2002|Wandum
+92.04.24.2003|Bemus
+92.04.24.2004|Welek
+92.04.25|Salkma
+92.04.25.2001|Wenslolo
+92.04.25.2002|Klamit
+92.04.25.2003|Mlabolo
+92.04.25.2004|Kofalit
+92.04.25.2005|Alma
+92.04.26|Kais Darat
+92.04.26.2001|Mukamat
+92.04.26.2002|Ikana
+92.04.26.2003|Haemaran
+92.04.26.2004|Siranggo
+92.04.26.2005|Mogatemin
+92.04.26.2006|Onimsefa
+92.04.26.2007|Makaroro
+92.05|KAB. RAJA AMPAT
+92.05.01|Misool (Misool Utara)
+92.05.01.2001|Waigama
+92.05.01.2005|Salafen
+92.05.01.2006|Aduwei
+92.05.01.2007|Atkari
+92.05.01.2014|Solal
+92.05.02|Waigeo Utara
+92.05.02.2003|Kabare
+92.05.02.2010|Andey
+92.05.02.2011|Asukweri
+92.05.02.2013|Bonsayor
+92.05.02.2014|Darumbab
+92.05.02.2015|Kalisade
+92.05.03|Waigeo Selatan
+92.05.03.2004|Saonek
+92.05.03.2014|Saporkren
+92.05.03.2015|Yenbeser
+92.05.03.2016|Friwen
+92.05.03.2017|Wawiyai
+92.05.04|Salawati Utara
+92.05.04.2001|Samate
+92.05.04.2002|Kapatlap
+92.05.04.2003|Jefman Barat
+92.05.04.2015|Wamega
+92.05.04.2016|Jefman Timur
+92.05.04.2017|Waidim
+92.05.05|Kepulauan Ayau
+92.05.05.2001|Dorehkar
+92.05.05.2003|Yenkawir
+92.05.05.2006|Boiseran
+92.05.05.2007|Runi
+92.05.05.2008|Yenkanfan
+92.05.06|Misool Timur
+92.05.06.2001|Folley
+92.05.06.2003|Tomolol
+92.05.06.2011|Usaha Jaya
+92.05.06.2012|Limalas Timur
+92.05.06.2016|Audam
+92.05.06.2017|Limalas Barat
+92.05.07|Waigeo Barat
+92.05.07.2001|Selpele
+92.05.07.2005|Mutus
+92.05.07.2007|Bianci
+92.05.07.2011|Saleo
+92.05.07.2012|Waisilip
+92.05.08|Waigeo Timur
+92.05.08.2001|Puper
+92.05.08.2002|Yenbekaki
+92.05.08.2003|Urbinasopen
+92.05.08.2004|Yensner
+92.05.09|Teluk Mayalibit
+92.05.09.2001|Lopintol
+92.05.09.2007|Warsamdin
+92.05.09.2009|Mumes
+92.05.09.2010|Kalitoko
+92.05.10|Kofiau
+92.05.10.2001|DibalaI
+92.05.10.2002|Tolobi
+92.05.10.2003|Deer
+92.05.10.2004|Mikiran
+92.05.10.2005|Awat
+92.05.11|Meos Mansar
+92.05.11.2001|Yenbekwan
+92.05.11.2002|Kapisawar
+92.05.11.2003|Sawinggrai
+92.05.11.2004|Yenwaupnor
+92.05.11.2005|Arborek
+92.05.11.2006|Yenbuba
+92.05.11.2007|Kabuy
+92.05.11.2008|Kurkapa
+92.05.11.2009|Sawandarek
+92.05.13|Misool Selatan
+92.05.13.2002|Fafanlap
+92.05.13.2006|Yellu
+92.05.13.2007|Harapan Jaya
+92.05.13.2009|Usaha Jaya
+92.05.13.2010|Dabatan
+92.05.14|Warwarbomi
+92.05.14.2001|Warmanai
+92.05.14.2002|Mnier
+92.05.14.2003|Boni
+92.05.14.2004|Warkori
+92.05.15|Waigeo Barat Kepulauan
+92.05.15.2001|Manyaifun
+92.05.15.2002|Meosmanggara
+92.05.15.2003|Pam
+92.05.15.2004|Saukabu
+92.05.15.2005|Gag
+92.05.15.2006|Saupapir
+92.05.16|Misool Barat
+92.05.16.2001|Lilinta
+92.05.16.2002|Gamta
+92.05.16.2003|Biga
+92.05.16.2004|Kapatcol
+92.05.16.2005|Magey
+92.05.17|Kepulauan Sembilan
+92.05.17.2001|Wejim Barat
+92.05.17.2002|Wejim Timur
+92.05.17.2003|Satukurano
+92.05.17.2004|Pulau Tikus
+92.05.18|Kota Waisai
+92.05.18.1001|Waisai
+92.05.18.1002|Sapordanco
+92.05.18.1003|Bonwakir
+92.05.18.1004|Warmasen
+92.05.19|Tiplol Mayalibit
+92.05.19.2001|Go
+92.05.19.2002|Kabilol
+92.05.19.2003|Arway
+92.05.19.2004|Beo
+92.05.19.2005|Waifoi
+92.05.19.2006|Warimak
+92.05.20|Batanta Utara
+92.05.20.2001|Yensawai Timur
+92.05.20.2002|Yensawai Barat
+92.05.20.2003|Arefi Timur
+92.05.20.2004|Arefi Selatan
+92.05.21|Salawati Barat
+92.05.21.2001|Waibon
+92.05.21.2002|Solol
+92.05.21.2003|Kaliam
+92.05.21.2004|Kalwal
+92.05.22|Salawati Tengah
+92.05.22.2001|Kalobo
+92.05.22.2002|Sakabu
+92.05.22.2003|Waibu
+92.05.22.2004|Waijan
+92.05.22.2005|Waimeci
+92.05.22.2006|Wailabu
+92.05.22.2007|Wailen
+92.05.23|Supnin
+92.05.23.2001|Rauki
+92.05.23.2002|Urai
+92.05.23.2003|Duber
+92.05.23.2004|Kapadiri
+92.05.24|Ayau
+92.05.24.2001|Abidon
+92.05.24.2002|Rutum
+92.05.24.2003|Reni
+92.05.24.2004|Meosbekwan
+92.05.25|Batanta Selatan
+92.05.25.2001|Yenanas
+92.05.25.2002|Amdui
+92.05.25.2003|Wailebet
+92.05.25.2004|Waiman
+92.06|KAB. TELUK BINTUNI
+92.06.01|Bintuni
+92.06.01.1001|Bintuni Timur
+92.06.01.1002|Bintuni Barat
+92.06.01.2004|Tuasai
+92.06.01.2005|Argosigemerai
+92.06.01.2009|Beimes
+92.06.01.2010|Iguriji
+92.06.01.2022|Masina
+92.06.01.2026|Wesiri
+92.06.02|Merdey
+92.06.02.2001|Merdey
+92.06.02.2002|Meryeb
+92.06.02.2004|Meyom
+92.06.02.2007|Menggerba
+92.06.02.2008|Anajero
+92.06.02.2010|Mogromus
+92.06.02.2011|Morombuy
+92.06.02.2014|Mekiesefeb
+92.06.02.2020|Meyetga
+92.06.03|Babo
+92.06.03.2020|Irarutu III
+92.06.03.2021|Amutu
+92.06.03.2022|Nusei
+92.06.03.2023|Kasira
+92.06.04|Aranday
+92.06.04.2001|Aranday
+92.06.04.2007|Kampung Baru
+92.06.04.2008|Kecap
+92.06.04.2009|Manunggal Karya
+92.06.05|Moskona Selatan
+92.06.05.2001|Jagiro
+92.06.05.2004|Meyenda
+92.06.05.2005|Rawara
+92.06.05.2006|Barma Barat
+92.06.05.2011|Inggof
+92.06.06|Moskona Utara
+92.06.06.2001|Moyeba
+92.06.06.2004|Merestim
+92.06.06.2005|Inofina
+92.06.06.2006|Mosum
+92.06.07|Wamesa
+92.06.07.2001|Wamesa I / Idoor
+92.06.07.2002|Wamesa II / Yakati
+92.06.07.2003|Yansei
+92.06.07.2004|Mamuranu
+92.06.08|Fafurwar
+92.06.08.2001|Fruata/Irowutu II
+92.06.08.2002|Meryedi
+92.06.08.2003|Riendo
+92.06.09|Tembuni
+92.06.09.2001|Tembuni
+92.06.09.2002|Mogoi Baru
+92.06.09.2003|Araisum
+92.06.09.2004|Bangun Mulya
+92.06.10|Kuri
+92.06.10.2001|Sarbe
+92.06.10.2002|Wagura
+92.06.10.2003|Refideso
+92.06.10.2004|Naramasa
+92.06.10.2005|Obo
+92.06.11|Manimeri
+92.06.11.2001|Bumi Saniari
+92.06.11.2002|Banjar Ausoy
+92.06.11.2003|Waraitama
+92.06.11.2004|Atibo Manimeri
+92.06.11.2005|Pasamai
+92.06.11.2006|Korano Jaya
+92.06.12|Tuhiba
+92.06.12.2001|Tuhiba
+92.06.12.2002|Tisaida
+92.06.12.2003|Kucir
+92.06.12.2004|Sibena Raya
+92.06.12.2005|Sibena Permai
+92.06.13|Dataran Beimes
+92.06.13.2001|Horna
+92.06.13.2002|Cumnaji
+92.06.13.2003|Menci
+92.06.13.2004|Sir
+92.06.13.2005|Huss
+92.06.13.2006|Ugdohop
+92.06.14|Sumuri
+92.06.14.2001|Tofoi
+92.06.14.2002|Tanah Merah
+92.06.14.2003|Saengga
+92.06.14.2004|Forada
+92.06.14.2005|Materabu Jaya
+92.06.15|Kaitaro
+92.06.15.2001|Sara
+92.06.15.2002|Warga Nusa I
+92.06.15.2003|Warga Nusa II
+92.06.15.2004|Tugarama
+92.06.15.2005|Suga
+92.06.16|Aroba
+92.06.16.2001|Aroba
+92.06.16.2002|Yaru
+92.06.16.2003|Sido Makmur
+92.06.16.2004|Wimbro
+92.06.16.2005|Sangguar
+92.06.17|Masyeta
+92.06.17.2001|Masyeta
+92.06.17.2002|Mestofu
+92.06.17.2003|Kalibiru
+92.06.17.2004|Mesomda
+92.06.18|Biscoop
+92.06.18.2001|Jahabra
+92.06.18.2002|Ibori
+92.06.18.2003|Menyembru
+92.06.18.2004|Meyorga
+92.06.18.2005|Laudoho
+92.06.18.2006|Eniba
+92.06.18.2007|Mowitka
+92.06.19|Tomu
+92.06.19.2001|Sebyar Rejosasi
+92.06.19.2002|Tomu
+92.06.19.2003|Taroy
+92.06.19.2004|Ekam
+92.06.20|Kamundan
+92.06.20.2001|Kalitami I
+92.06.20.2002|Kalitami II
+92.06.20.2003|Kenara
+92.06.20.2004|Bibiram
+92.06.21|Weriagar
+92.06.21.2001|Weriagar
+92.06.21.2002|Mogotira
+92.06.21.2003|Weriagar Baru
+92.06.21.2004|Weriagar Utara
+92.06.21.2005|Tuanaikin
+92.06.22|Moskona Barat
+92.06.22.2001|Meyerga
+92.06.22.2002|Macok
+92.06.22.2003|Istiwkem
+92.06.22.2004|Majnic
+92.06.23|Meyado
+92.06.23.2001|Meyado
+92.06.23.2002|Barma
+92.06.23.2003|Barma Baru
+92.06.23.2004|Vasco Damneen
+92.06.24|Moskona Timur
+92.06.24.2001|Igomu
+92.06.24.2002|Mesna
+92.06.24.2003|Sumuy
+92.07|KAB. TELUK WONDAMA
+92.07.01|Wasior
+92.07.01.1001|Wasior I
+92.07.01.2002|Rado
+92.07.01.2003|Dotir
+92.07.01.2004|Maniwak
+92.07.01.2005|Wasior II
+92.07.01.2006|Maimari
+92.07.01.2007|Moru
+92.07.01.2009|Manopi
+92.07.01.2010|Ramiki
+92.07.01.2011|Iriati
+92.07.02|Windesi
+92.07.02.2001|Wamesa Tengah
+92.07.02.2002|Yopmeos
+92.07.02.2004|Sombokoro
+92.07.02.2007|Windesi
+92.07.02.2010|Sandey
+92.07.03|Teluk Duairi
+92.07.03.2001|Aisandami
+92.07.03.2002|Sobey
+92.07.03.2006|Yopanggar
+92.07.03.2011|Sobey Indah
+92.07.04|Wondiboy
+92.07.04.2002|Wondiboy
+92.07.04.2009|Kabouw
+92.07.04.2010|Issui
+92.07.04.2015|Kaibi
+92.07.05|Wamesa
+92.07.05.2001|Sabubar
+92.07.05.2002|Ambuar
+92.07.05.2003|Karuan
+92.07.05.2007|Yarpate
+92.07.05.2009|Nordiwar
+92.07.06|Rumberpon
+92.07.06.2001|Yombekiri I
+92.07.06.2002|Isenebuay
+92.07.06.2003|Yomakan
+92.07.06.2005|Iseren
+92.07.06.2008|Yembekiri II
+92.07.06.2009|Yariari
+92.07.06.2011|Wetitindau
+92.07.07|Naikere
+92.07.07.2001|Wosimi
+92.07.07.2002|Sararti
+92.07.07.2003|Yabore
+92.07.07.2004|Oyaa
+92.07.07.2005|Inyora
+92.07.07.2006|Undurara
+92.07.08|Rasiei
+92.07.08.2001|Rasiei
+92.07.08.2002|Torey
+92.07.08.2003|Isey
+92.07.08.2004|Uriemi
+92.07.08.2005|Sasirei
+92.07.08.2006|Tandia
+92.07.08.2007|Webi
+92.07.08.2008|Nggatum
+92.07.08.2009|Senderawoy
+92.07.09|Kuri Wamesa
+92.07.09.2001|Ambumi
+92.07.09.2002|Nanimori
+92.07.09.2003|Dusner
+92.07.09.2004|Yerenusi
+92.07.09.2005|Sobiar
+92.07.09.2006|Simei
+92.07.10|Roon
+92.07.10.2001|Yende
+92.07.10.2002|Syabes
+92.07.10.2003|Menarbu
+92.07.10.2004|Niab
+92.07.10.2005|Inday
+92.07.10.2006|Sariay
+92.07.10.2007|Mena
+92.07.11|Roswar
+92.07.11.2001|Waprak
+92.07.11.2002|Yomber
+92.07.11.2003|Syeiwar
+92.07.12|Nikiwar
+92.07.12.2001|Werabur
+92.07.12.2002|Mamisi
+92.07.12.2003|Werianggi
+92.07.12.2004|Kurei
+92.07.12.2005|Tamoge
+92.07.13|Soug Jaya
+92.07.13.2001|Kaprus
+92.07.13.2002|Yarmatum
+92.07.13.2003|Reyob
+92.07.13.2004|Siresi
+92.07.13.2005|Nuspairo
+92.08|KAB. KAIMANA
+92.08.01|Kaimana
+92.08.01.1001|Kaimana Kota
+92.08.01.1014|Krooy
+92.08.01.2002|Marsi
+92.08.01.2003|Namatota
+92.08.01.2004|Lobo
+92.08.01.2005|Trikora
+92.08.01.2006|Tanggaromi
+92.08.01.2007|Sisir
+92.08.01.2008|Foroma Jaya
+92.08.01.2009|Murano
+92.08.01.2010|Mai Mai
+92.08.01.2011|Lumira
+92.08.01.2012|Kamaka
+92.08.01.2013|Coa
+92.08.01.2015|Saria
+92.08.01.2016|Jarati
+92.08.01.2017|Sara
+92.08.01.2018|Werua
+92.08.01.2019|Oray
+92.08.02|Buruway
+92.08.02.2001|Kambala
+92.08.02.2002|Yarona
+92.08.02.2003|Edor
+92.08.02.2004|Tairi
+92.08.02.2005|Gaka
+92.08.02.2006|Guriasa
+92.08.02.2007|Adi Jaya
+92.08.02.2008|Nusaulan
+92.08.02.2009|Esania
+92.08.02.2010|Hia
+92.08.03|Teluk Arguni Atas
+92.08.03.2001|Furnusu
+92.08.03.2002|Fetermu
+92.08.03.2003|Sawi
+92.08.03.2004|Turgani
+92.08.03.2010|Sawatewera
+92.08.03.2012|Bofuwer
+92.08.03.2013|Warwasi
+92.08.03.2014|Wanggita
+92.08.03.2016|Fudima
+92.08.03.2017|Weswasa
+92.08.03.2018|Borogerba
+92.08.03.2019|Afu Afu
+92.08.03.2020|Bayeda
+92.08.03.2021|Moyana
+92.08.03.2022|Kokoroba
+92.08.03.2023|Wainaga
+92.08.03.2024|Maskur
+92.08.03.2025|Kensi
+92.08.03.2027|Erigara
+92.08.03.2028|Pigo
+92.08.03.2029|Tugumawa
+92.08.03.2030|Tiwara
+92.08.03.2031|Gusi
+92.08.03.2032|Warua
+92.08.04|Teluk Etna
+92.08.04.2001|Rurumo
+92.08.04.2002|Boiya
+92.08.04.2003|Nariki
+92.08.04.2004|Bamana
+92.08.04.2005|Siawatan
+92.08.05|Kambrau
+92.08.05.2001|Rauna
+92.08.05.2002|Werafuta
+92.08.05.2003|Ubia Sermuku
+92.08.05.2004|Bahumia
+92.08.05.2005|Waho
+92.08.05.2006|Wamesa
+92.08.05.2007|Kooy
+92.08.06|Teluk Arguni Bawah
+92.08.06.2001|Jawera
+92.08.06.2002|Ruwara
+92.08.06.2003|Wermenu
+92.08.06.2004|Egerwara
+92.08.06.2005|Kufuriyai
+92.08.06.2006|Manggera
+92.08.06.2007|Tanusan
+92.08.06.2008|Urisa
+92.08.06.2009|Waromi
+92.08.06.2010|Ukiara
+92.08.06.2012|Nagura
+92.08.06.2013|Inari
+92.08.06.2014|Wanoma
+92.08.06.2015|Sumun
+92.08.06.2016|Seraran
+92.08.07|Yamor
+92.08.07.2001|Ure
+92.08.07.2002|Wosokuno
+92.08.07.2003|Urubika
+92.08.07.2004|Wagoha
+92.08.07.2005|Hairapara
+92.08.07.2006|Omba Pamuku
+92.09|KAB. TAMBRAUW
+92.09.01|Fef
+92.09.01.2001|Fef
+92.09.01.2003|Wayo
+92.09.01.2004|Syubun
+92.09.01.2006|Sikor
+92.09.01.2010|Ibe
+92.09.01.2011|Syunam
+92.09.01.2012|Banfot
+92.09.01.2013|Iwin
+92.09.01.2014|Esyum
+92.09.01.2015|Imor
+92.09.02|Miyah
+92.09.02.2001|Siakwa
+92.09.02.2002|Ruvewes
+92.09.02.2005|Yabuow
+92.09.02.2006|Aibogia
+92.09.02.2008|Ayae
+92.09.02.2011|Hobiah
+92.09.02.2013|Ayawit
+92.09.02.2014|Aifair
+92.09.03|Yembun
+92.09.03.2001|Baun
+92.09.03.2002|Sumbekas
+92.09.03.2003|Metnayam
+92.09.03.2007|Metbelum
+92.09.03.2011|Wormon
+92.09.03.2012|Salem
+92.09.04|Kwoor
+92.09.04.2001|Kwoor
+92.09.04.2002|Hopmare
+92.09.04.2010|Sunggak
+92.09.04.2011|Orwen
+92.09.04.2012|Barar
+92.09.04.2013|Esmambo
+92.09.05|Sausapor
+92.09.05.2001|Sausapor
+92.09.05.2007|Emaos
+92.09.05.2008|Jokte
+92.09.05.2009|Uigwem
+92.09.05.2010|Sungguwan
+92.09.05.2011|Sau Uram
+92.09.05.2012|Nanggou
+92.09.05.2013|Bondek
+92.09.05.2018|Bondonggwan
+92.09.05.2019|Syurauw
+92.09.06|Abun
+92.09.06.2001|Wau
+92.09.06.2002|Warmandi
+92.09.06.2003|Waibem
+92.09.06.2004|Saubeba
+92.09.06.2005|Weyaf
+92.09.06.2006|Weprari
+92.09.06.2007|Wowom
+92.09.07|Syujak
+92.09.07.2001|Syujak
+92.09.07.2002|Banso
+92.09.07.2004|Iof
+92.09.07.2005|Frafane
+92.09.08|Moraid
+92.09.08.2001|Mega
+92.09.08.2003|Selewok
+92.09.08.2004|Malaworsai
+92.09.08.2007|Kwade
+92.09.08.2008|Bonem
+92.09.08.2009|Warafor
+92.09.08.2010|Warmasi
+92.09.08.2011|Warmanen
+92.09.08.2012|Namuas
+92.09.09|Kebar
+92.09.09.2007|Injai
+92.09.09.2015|Apoki
+92.09.09.2016|Matatun
+92.09.09.2017|Jafai
+92.09.09.2018|Jambuani
+92.09.09.2019|Manaria
+92.09.09.2022|Anarum
+92.09.09.2027|Wasanggon
+92.09.09.2028|Wabanek
+92.09.09.2029|Pubuan
+92.09.10|Amberbaken
+92.09.10.2002|Saukorem
+92.09.10.2004|Wefani
+92.09.10.2005|Serayo
+92.09.10.2006|Wasarak
+92.09.10.2010|Wekari
+92.09.10.2012|Binasi
+92.09.10.2013|Kabibwan
+92.09.10.2014|Binmaks
+92.09.10.2016|Manggapnut
+92.09.10.2017|Waramui
+92.09.11|Senopi
+92.09.11.2003|Senopi
+92.09.11.2004|Arapi
+92.09.11.2005|Srurem
+92.09.11.2006|Sumo
+92.09.11.2007|Ifat Mitu
+92.09.11.2008|Povokek Ania
+92.09.11.2012|Thomas
+92.09.11.2015|Tintum Araw
+92.09.12|Mubrani
+92.09.12.2001|Arfu
+92.09.12.2002|Bawey
+92.09.12.2003|Wasnembri
+92.09.12.2004|Waru
+92.09.12.2005|Atori
+92.09.12.2006|Meriambeker
+92.09.12.2007|Bijamfou
+92.09.12.2015|Warokon
+92.09.12.2016|Arekon
+92.09.12.2017|Bonpaya
+92.09.12.2018|Marbuan
+92.09.13|Bikar
+92.09.13.2001|Werur
+92.09.13.2002|Bukit
+92.09.13.2003|Wertam
+92.09.13.2004|Werwaf
+92.09.13.2005|Werbes
+92.09.13.2006|Nombrak
+92.09.13.2007|Bikar
+92.09.13.2008|Syunai
+92.09.13.2009|Suyam
+92.09.13.2010|Wertim
+92.09.14|Bamusbama
+92.09.14.2001|Bamusbama
+92.09.14.2002|Bamuswaiman
+92.09.14.2003|Syarwom
+92.09.14.2004|Metbesa
+92.09.14.2005|Babak
+92.09.14.2006|Bano
+92.09.15|Ases
+92.09.15.2001|Ases
+92.09.15.2002|Asuon
+92.09.15.2003|Safoetiek
+92.09.15.2004|Frasayoah
+92.09.16|Miyah Selatan
+92.09.16.2001|Mawor
+92.09.16.2002|Ruf
+92.09.16.2003|Ayamane
+92.09.16.2004|Whismer
+92.09.16.2005|Sahae
+92.09.16.2006|Hewi
+92.09.16.2007|Sisu
+92.09.17|Ireres
+92.09.17.2001|Miri
+92.09.17.2002|Meis
+92.09.17.2003|Aifamas
+92.09.17.2004|Meinad
+92.09.17.2005|Atafrumek
+92.09.17.2006|Ifiam
+92.09.18|Tobouw
+92.09.18.2001|Syumbab
+92.09.18.2002|Krisnos
+92.09.18.2003|Syukwes
+92.09.18.2004|Donan
+92.09.18.2005|Dombron
+92.09.19|Wilhem Roumbouts
+92.09.19.2001|Tabamsere
+92.09.19.2002|Sayam
+92.09.19.2003|Araf Mafat
+92.09.19.2004|Esyuom
+92.09.20|Tinggouw
+92.09.20.2001|Tinggouw
+92.09.20.2002|Hohair
+92.09.20.2003|Ruriai
+92.09.20.2004|Soon
+92.09.20.2005|Ifatkan
+92.09.21|Kwesefo
+92.09.21.2001|Jokbujoker
+92.09.21.2002|Kranfotsu
+92.09.21.2003|Syuau
+92.09.21.2004|Kwesefo
+92.09.21.2005|Batdey
+92.09.21.2006|Syumbi
+92.09.21.2007|Bao
+92.09.22|Mawabuan
+92.09.22.2001|Wausin
+92.09.22.2002|Asiti
+92.09.22.2003|Bisaud
+92.09.22.2004|Wufmana
+92.09.22.2005|Nisandauw
+92.09.22.2006|Afrawi
+92.09.22.2007|Ajokwapi
+92.09.23|Kebar Timur
+92.09.23.2001|Inam
+92.09.23.2002|Jandurauw
+92.09.23.2003|Inambuari
+92.09.23.2004|Sitori
+92.09.23.2005|Untorey
+92.09.23.2006|Nabisai
+92.09.23.2007|Arumi
+92.09.23.2008|Karawi
+92.09.23.2009|Arampak
+92.09.23.2010|Kasi Inom
+92.09.23.2011|Ireji
+92.09.23.2012|Meycocforga
+92.09.23.2013|Wasabiti
+92.09.24|Kebar Selatan
+92.09.24.2001|Nekori
+92.09.24.2002|Ajami
+92.09.24.2003|Aniti
+92.09.24.2004|Akari
+92.09.24.2005|Amnan
+92.09.24.2006|Atiki
+92.09.24.2007|Arwani
+92.09.24.2008|Aritowi
+92.09.24.2009|Umpay
+92.09.24.2010|Meiwar
+92.09.25|Manekar
+92.09.25.2001|Atai
+92.09.25.2002|Akmuri
+92.09.25.2003|Awori
+92.09.25.2004|Itafiti
+92.09.25.2005|Atunari
+92.09.25.2006|Ajami Waripi
+92.09.25.2007|Narai
+92.09.25.2008|Aranari
+92.09.25.2009|Waumi
+92.09.25.2010|Aneti
+92.09.26|Mpur
+92.09.26.2001|Arupi
+92.09.26.2002|Warpaperi
+92.09.26.2003|Mangganek
+92.09.26.2004|Wajarek
+92.09.26.2005|Kali An
+92.09.26.2006|Araro
+92.09.27|Amberbaken Barat
+92.09.27.2001|Sasui
+92.09.27.2002|Bondopi
+92.09.27.2003|Manggaew
+92.09.27.2004|Saurabon
+92.09.27.2005|Wasawmontem
+92.09.28|Kasi
+92.09.28.2001|Meserikweda
+92.09.28.2002|Kasi Baru
+92.09.28.2003|Kasi Jaya
+92.09.28.2004|Meimorufof
+92.09.28.2005|Kasi Indah
+92.09.28.2006|Wacam
+92.09.28.2007|Irumfei
+92.09.29|Selemkai
+92.09.29.2001|Dela
+92.09.29.2002|Megame
+92.09.29.2003|Kaladum
+92.09.29.2004|Klasei
+92.09.29.2005|Klabili
+92.10|KAB. MAYBRAT
+92.10.01|Aifat
+92.10.01.2001|Kumurkek
+92.10.01.2002|Susumuk
+92.10.01.2003|Kokas
+92.10.01.2004|Kocuas
+92.10.01.2005|Kocuwer
+92.10.01.2006|Bori
+92.10.01.2007|Werjaya
+92.10.01.2008|Tehahite
+92.10.01.2009|Faitmayaf
+92.10.01.2010|Aisyo
+92.10.01.2011|Futon
+92.10.01.2012|Sampika
+92.10.01.2013|Martaim
+92.10.01.2014|Frawebo
+92.10.01.2015|Faitsawe
+92.10.01.2016|Kocuwer Selatan
+92.10.01.2017|Faitmayaf Barat
+92.10.01.2018|Sikof
+92.10.01.2019|Bori Timur
+92.10.01.2020|Kumurkek Barat
+92.10.01.2021|Ainod
+92.10.01.2022|Kocuas Utara
+92.10.01.2023|Sunei
+92.10.02|Aifat Utara
+92.10.02.2001|Ayawasi
+92.10.02.2002|Ayawasi Selatan
+92.10.02.2003|Ayawasi Timur
+92.10.02.2004|Susai
+92.10.02.2005|Fonatu
+92.10.02.2006|Mosun
+92.10.02.2007|Wayane
+92.10.02.2008|Konja
+92.10.02.2009|Yarat
+92.10.02.2010|Man
+92.10.02.2011|Howait
+92.10.02.2012|Haenkanes
+92.10.02.2013|Konja Barat
+92.10.02.2014|Yarat Timur
+92.10.02.2015|Raha
+92.10.02.2016|Mowes
+92.10.02.2017|Irata
+92.10.02.2018|Neset
+92.10.02.2019|Mosun Timur
+92.10.02.2020|Mosun Utara
+92.10.03|Aifat Timur
+92.10.03.2001|Aisa
+92.10.03.2004|Aikrer
+92.10.03.2005|Aitrem
+92.10.03.2006|Sawin
+92.10.03.2008|Sahbuku
+92.10.03.2009|Sasior Frabuku
+92.10.03.2026|Wakom
+92.10.03.2027|Sanem
+92.10.03.2033|Buoh Sa
+92.10.04|Aifat Selatan
+92.10.04.2001|Kisor
+92.10.04.2002|Sorry
+92.10.04.2003|Imsun
+92.10.04.2004|Sabah
+92.10.04.2005|Tahsimara
+92.10.04.2006|Fuog
+92.10.04.2008|Asiaf Saman
+92.10.04.2009|Hora Iek
+92.10.04.2010|Fuog Selatan
+92.10.04.2011|Same Rakator
+92.10.04.2012|Roma
+92.10.04.2013|Krus
+92.10.04.2014|Awet Main
+92.10.04.2015|Yeek
+92.10.04.2016|Kaitana
+92.10.04.2017|Tolak
+92.10.05|Aitinyo Barat
+92.10.05.2001|Kambufatem
+92.10.05.2002|Kambufatem Utara
+92.10.05.2003|Fatase
+92.10.05.2008|Hosyo Ata
+92.10.05.2009|Waybomatah
+92.10.05.2010|Siyo
+92.10.05.2011|Hasweh
+92.10.05.2012|Fatem
+92.10.05.2013|Hosyo Banah
+92.10.06|Aitinyo
+92.10.06.2001|Aitinyo
+92.10.06.2002|Irohe
+92.10.06.2003|Sris
+92.10.06.2005|Kamro
+92.10.06.2007|Karsu
+92.10.06.2008|Tehak Kecil
+92.10.06.2009|Sira Aya
+92.10.06.2010|Korom
+92.10.06.2011|Sumanis
+92.10.06.2013|Ibasuf
+92.10.06.2014|Sowai Sau
+92.10.06.2015|Subin
+92.10.06.2016|Irohmrar
+92.10.06.2017|Bofait
+92.10.06.2018|Afkrem
+92.10.06.2019|Wiho
+92.10.06.2020|Kamro Selatan
+92.10.07|Aitinyo Utara
+92.10.07.2001|Fategomi
+92.10.07.2002|Tehak Besar
+92.10.07.2003|Fan
+92.10.07.2004|Gohsames
+92.10.07.2005|Asmuruf U
+92.10.07.2006|Mirafaan
+92.10.07.2011|Asmuruf Tee
+92.10.07.2012|Tehak Tee
+92.10.07.2013|Framafir
+92.10.07.2014|Subrit
+92.10.07.2015|Inta
+92.10.07.2016|Bahwat
+92.10.08|Ayamaru
+92.10.08.1001|Ayamaru
+92.10.08.2010|Framu
+92.10.08.2011|Mefkajim II
+92.10.08.2017|Fraharo
+92.10.08.2018|Smusswioh
+92.10.08.2019|Twer
+92.10.08.2020|Afes
+92.10.08.2021|Tuso
+92.10.09|Ayamaru Utara
+92.10.09.2001|Yubiah
+92.10.09.2003|Karetubun
+92.10.09.2004|Setta
+92.10.09.2006|Hohoyor
+92.10.09.2007|Arne
+92.10.09.2009|Aus Tiwit
+92.10.09.2010|Johafah
+92.10.09.2011|Yukase
+92.10.09.2012|Serma
+92.10.09.2013|Kfaa
+92.10.09.2014|Arne Timur
+92.10.09.2020|Nauwita
+92.10.10|Ayamaru Timur
+92.10.10.2001|Kambuaya
+92.10.10.2002|Huberita
+92.10.10.2003|Faitmajin
+92.10.10.2006|Ismayo
+92.10.10.2007|Sefayit
+92.10.10.2008|Insas
+92.10.10.2009|Faitsiur
+92.10.10.2010|Keyum
+92.10.11|Mare
+92.10.11.2001|Suswa
+92.10.11.2002|Seya
+92.10.11.2005|Waban
+92.10.11.2006|Kombif
+92.10.11.2008|Rufases
+92.10.11.2009|Bakrabi
+92.10.11.2010|Nafasi
+92.10.11.2011|Mahos
+92.10.11.2012|Sawo
+92.10.12|Aifat Timur Tengah
+92.10.12.2001|Mupas
+92.10.12.2002|Kamat
+92.10.12.2003|Frambu
+92.10.12.2004|Ayata
+92.10.12.2005|Aikus
+92.10.12.2006|Aiwesa
+92.10.12.2007|Pitor
+92.10.12.2008|Aifam
+92.10.12.2009|Saud
+92.10.12.2010|Tiam
+92.10.12.2011|Faan Kahrio
+92.10.12.2012|Assem
+92.10.13|Aifat Timur Jauh
+92.10.13.2001|Ainesra
+92.10.13.2002|Aimau
+92.10.13.2003|Mesyam
+92.10.13.2004|Aisasior
+92.10.13.2005|Franeway
+92.10.13.2006|Aikingging
+92.10.13.2007|Tiefromen
+92.10.14|Aifat Timur Selatan
+92.10.14.2001|Wormu
+92.10.14.2002|Makiri
+92.10.14.2003|Warba
+92.10.14.2004|Winuni
+92.10.14.2005|Srumate
+92.10.14.2006|Womba
+92.10.15|Ayamaru Selatan
+92.10.15.2001|Sauf
+92.10.15.2002|Sembaro
+92.10.15.2003|Koma Koma
+92.10.15.2004|Kanisabar
+92.10.15.2005|Sfarare
+92.10.15.2006|Saneh
+92.10.15.2007|Lemauk Klit
+92.10.15.2008|Hawioh
+92.10.15.2009|Simiyah
+92.10.15.2010|Sagrim
+92.10.16|Ayamaru Jaya
+92.10.16.2001|Adoh
+92.10.16.2002|Temel
+92.10.16.2003|Sosian
+92.10.16.2004|Segior
+92.10.16.2005|Orain
+92.10.16.2006|Rawas
+92.10.16.2007|Orsu
+92.10.16.2008|Soan
+92.10.16.2009|Warbo
+92.10.16.2010|Woman
+92.10.17|Ayamaru Selatan Jaya
+92.10.17.2001|Faitsimar
+92.10.17.2002|Asses
+92.10.17.2003|Fait Nigre
+92.10.17.2004|Sufu
+92.10.17.2005|Arus
+92.10.17.2006|Kofait
+92.10.17.2007|Isnum
+92.10.18|Ayamaru Timur Selatan
+92.10.18.2001|Kambuskato
+92.10.18.2002|Kambuskato Utara
+92.10.18.2003|Kambuifa
+92.10.18.2004|Isusu
+92.10.18.2005|Mano
+92.10.18.2006|Sipat
+92.10.18.2007|Faitwosur/Angkasa Pura
+92.10.19|Ayamaru Utara Timur
+92.10.19.2001|Mapura
+92.10.19.2002|Suwiam
+92.10.19.2003|Tomase
+92.10.19.2004|Frabo
+92.10.19.2005|Karfa
+92.10.19.2006|Kona
+92.10.19.2007|Kosah
+92.10.20|Ayamaru Tengah
+92.10.20.2001|Fiane
+92.10.20.2002|Kartapura
+92.10.20.2003|Men
+92.10.20.2004|Semu
+92.10.20.2005|Isme
+92.10.20.2006|Rindu
+92.10.20.2007|Tut
+92.10.20.2008|Yohwer
+92.10.20.2009|Hufioh
+92.10.20.2010|Bawy
+92.10.21|Ayamaru Barat
+92.10.21.2001|Soroan
+92.10.21.2002|Fanse
+92.10.21.2003|Chaliat
+92.10.21.2004|Sfacko
+92.10.21.2005|Sehu
+92.10.21.2006|Tbo
+92.10.21.2007|Sien
+92.10.21.2008|Sfaraka
+92.10.22|Aitinyo Tengah
+92.10.22.2001|Yaksoro
+92.10.22.2002|Awit
+92.10.22.2003|Sira
+92.10.22.2004|Eway
+92.10.22.2005|Erokwero
+92.10.22.2006|Sabun
+92.10.22.2007|Itigah
+92.10.22.2008|Sira Tee
+92.10.22.2009|Wrait 'U'
+92.10.22.2010|Way 'U'
+92.10.22.2011|Asnaif
+92.10.22.2012|Iroh Sohser
+92.10.22.2013|Framboh
+92.10.22.2014|Tohmri
+92.10.23|Aitinyo Raya
+92.10.23.2001|Jitmau
+92.10.23.2002|Ikuf
+92.10.23.2003|Isir
+92.10.23.2004|Jitmau Timur
+92.10.23.2005|Ikuf Utara
+92.10.23.2006|Sarimo
+92.10.23.2007|Kambusabo
+92.10.23.2008|Srirtabam
+92.10.23.2009|Faithowes
+92.10.23.2010|Yumame
+92.10.24|Mare Selatan
+92.10.24.2001|Seni
+92.10.24.2002|Renis
+92.10.24.2003|Sire
+92.10.24.2004|Fase
+92.10.24.2005|Sabes
+92.10.24.2006|Kuraso
+92.10.24.2007|Sidi
+92.10.24.2008|Osom
+92.10.24.2009|Sire Timur
+92.11|KAB. MANOKWARI SELATAN
+92.11.01|Ransiki
+92.11.01.2001|Ransiki
+92.11.01.2002|Nuhuwei
+92.11.01.2003|Yamboi
+92.11.01.2004|Tobou
+92.11.01.2005|Sabri
+92.11.01.2006|Bamaha
+92.11.01.2007|Abreso
+92.11.01.2008|Hamawi
+92.11.01.2009|Kobrey
+92.11.01.2010|Wamcei
+92.11.01.2011|Hamor
+92.11.01.2012|Susmorof
+92.11.01.2013|Mambrema
+92.11.02|Oransbari
+92.11.02.2001|Oransbari
+92.11.02.2002|Sidomulyo
+92.11.02.2003|Waroser
+92.11.02.2004|Margo Rukun
+92.11.02.2005|Muari
+92.11.02.2006|Watariri
+92.11.02.2007|Masabui
+92.11.02.2008|Warbiadi
+92.11.02.2009|Margomulyo
+92.11.02.2010|Warkwandi
+92.11.02.2011|Sindang Jaya
+92.11.02.2012|Wandoki
+92.11.02.2013|Akeju
+92.11.02.2014|Masabui II
+92.11.03|Neney
+92.11.03.2001|Wama
+92.11.03.2002|Disi
+92.11.03.2003|Hiyou
+92.11.03.2004|Sesum
+92.11.03.2005|Benyas
+92.11.03.2006|Aryawenmoho
+92.11.03.2007|Neney
+92.11.04|Dataran Isim
+92.11.04.2001|Isim
+92.11.04.2002|Duhugesa
+92.11.04.2003|Tubes
+92.11.04.2004|Umohousi
+92.11.04.2005|Tohosta
+92.11.04.2006|Hugomot
+92.11.04.2007|Dihisu
+92.11.04.2008|Inyuara
+92.11.04.2009|Desra
+92.11.04.2010|Mindermes
+92.11.04.2011|Sibjo
+92.11.04.2012|Dibera
+92.11.05|Momi Waren
+92.11.05.2001|Dembek
+92.11.05.2002|Nij
+92.11.05.2003|Siwi
+92.11.05.2004|Gaya Baru
+92.11.05.2005|Waren
+92.11.05.2006|Demini
+92.11.05.2007|Yekwandi
+92.11.06|Tahota
+92.11.06.2001|Yarmatum
+92.11.06.2002|Reyob
+92.11.06.2003|Kaprus
+92.11.06.2004|Seimeba
+92.12|KAB. PEGUNUNGAN ARFAK
+92.12.01|Anggi
+92.12.01.2001|Iraiweri
+92.12.01.2002|Igembai
+92.12.01.2003|Imbai
+92.12.01.2004|Suteibey
+92.12.01.2005|Susi
+92.12.01.2006|Ullong
+92.12.01.2007|Mentubey
+92.12.01.2008|Ayaubey
+92.12.01.2009|Testega Pamaha
+92.12.01.2010|Pamaha
+92.12.01.2011|Uper
+92.12.01.2012|Hungku
+92.12.01.2013|Srubey
+92.12.02|Anggi Gida
+92.12.02.2001|Sibiogud
+92.12.02.2002|Krobut
+92.12.02.2003|Tubyam
+92.12.02.2004|Sakumi
+92.12.02.2005|Tombrok
+92.12.02.2006|Sisrang
+92.12.02.2007|Ngisrow
+92.12.02.2008|Itkau
+92.12.03|Membey
+92.12.03.2001|Inyebuow
+92.12.03.2002|Imbeisba
+92.12.03.2003|Usti
+92.12.03.2004|Memti
+92.12.03.2005|Koney
+92.12.03.2006|Membey
+92.12.04|Sururey
+92.12.04.2001|Sururey
+92.12.04.2002|Tuhubea
+92.12.04.2003|Sungedes
+92.12.04.2004|Inyaub
+92.12.04.2005|Saugemeba
+92.12.04.2006|Kobrey
+92.12.04.2007|Kopo
+92.12.04.2008|Dugahani
+92.12.04.2009|Tomstera
+92.12.04.2010|Kostera
+92.12.04.2011|Anuk
+92.12.04.2012|Menesrij
+92.12.05|Didohu
+92.12.05.2001|Iranmeba
+92.12.05.2002|Cirnohu
+92.12.05.2003|Dibetik
+92.12.05.2004|Danmou
+92.12.05.2005|Miseda
+92.12.05.2006|Sirgemeh
+92.12.05.2007|Sneremer
+92.12.05.2008|Kusmenau
+92.12.05.2009|Cigera
+92.12.05.2010|Tomstir
+92.12.05.2011|Gedeira
+92.12.05.2012|Demdamei
+92.12.05.2013|Dugrimog
+92.12.05.2014|Disra
+92.12.06|Taige
+92.12.06.2001|Genyu
+92.12.06.2002|Ansum
+92.12.06.2003|Deurohu
+92.12.06.2004|Horeta
+92.12.06.2005|Ubeisa
+92.12.06.2006|Taige
+92.12.06.2007|Tridaga
+92.12.06.2008|Disura
+92.12.06.2009|Awigau
+92.12.06.2010|Siskedowo
+92.12.06.2011|Irbos
+92.12.07|Catubouw
+92.12.07.2001|Catubouw
+92.12.07.2002|Bigwaimud
+92.12.07.2003|Mihou
+92.12.07.2004|Kaungwam
+92.12.07.2005|Aiga
+92.12.07.2006|Imandrigo
+92.12.07.2007|Unti
+92.12.07.2008|Ndabouw
+92.12.07.2009|Sugemeh
+92.12.07.2010|Manggesuk
+92.12.07.2011|Ijigreg
+92.12.07.2012|Jim
+92.12.07.2013|Slomiou
+92.12.07.2014|Binggrayud
+92.12.07.2015|Minmo
+92.12.07.2016|Mihij
+92.12.07.2017|Soudin
+92.12.07.2018|Timtouw
+92.12.07.2019|Idemai
+92.12.07.2020|Mieycomti
+92.12.07.2021|Coijut
+92.12.08|Testega
+92.12.08.2001|Testega
+92.12.08.2002|Meidogda
+92.12.08.2003|Meifekeni
+92.12.08.2004|Demuora
+92.12.08.2005|Jigja
+92.12.08.2006|Meigehenawu
+92.12.08.2007|Morumfeyi
+92.12.08.2008|Iba
+92.12.08.2009|Meimersa
+92.12.08.2010|Meifowoska
+92.12.08.2011|Meijugjijigja
+92.12.08.2012|Meifokeda
+92.12.08.2013|Dumbrey
+92.12.08.2014|Meksi
+92.12.08.2015|Asai Dua
+92.12.09|Minyambaouw
+92.12.09.2001|Minyambouw
+92.12.09.2002|Demaisi
+92.12.09.2003|Awaibehel
+92.12.09.2004|Indabri
+92.12.09.2005|Coisi
+92.12.09.2006|Imbenti
+92.12.09.2007|Sigim
+92.12.09.2008|Imbonggun
+92.12.09.2009|Aduer
+92.12.09.2010|Ugjeheg
+92.12.09.2011|Micadiwor
+92.12.09.2012|Ungga
+92.12.09.2013|Mitiede
+92.12.09.2014|Simerbei
+92.12.09.2015|Driye
+92.12.09.2016|Wamminda
+92.12.09.2017|Umpug
+92.12.09.2018|Handuk
+92.12.09.2019|Ninsimoi
+92.12.09.2020|Anggra
+92.12.09.2021|Inggramhim
+92.12.09.2022|Mbingma
+92.12.09.2023|Injuar
+92.12.09.2024|Apul
+92.12.09.2025|Memangker
+92.12.09.2026|Mainda
+92.12.09.2027|Imbrekti
+92.12.09.2028|Ipingosi
+92.12.09.2029|Pinyausi
+92.12.09.2030|Sinaltousi
+92.12.09.2031|Misangoisi
+92.12.09.2032|Smanggei
+92.12.09.2033|Nimbiau
+92.12.09.2034|Bingwoyut
+92.12.09.2035|Ayau
+92.12.09.2036|Andang
+92.12.09.2039|Miconti
+92.12.10|Hingk
+92.12.10.2001|Sopnyai
+92.12.10.2002|Ikimabou
+92.12.10.2003|Manggot
+92.12.10.2004|Kisap
+92.12.10.2005|Nungkimor
+92.12.10.2006|Cangoisi
+92.12.10.2007|Minyeimemud
+92.12.10.2008|Penibut
+92.12.10.2009|Demunti
+92.12.10.2010|Gueipimbai
+92.12.10.2011|Tigaucomti
+92.12.10.2012|Urwong
+92.12.10.2013|Aryon
+92.12.10.2014|Punggung
+92.12.10.2015|Humeisi
+92.12.10.2016|Haktiebou
+92.12.10.2017|Kwok Satu
+92.12.10.2018|Kwok Dua
+92.12.10.2019|Kwaiyehep
+92.12.10.2020|Mbegau
+92.12.10.2021|Ngimoubri
+92.12.10.2022|Liehak
+92.12.10.2023|Umcep
+92.12.10.2024|Tumbeibehei
+92.12.10.2025|Tingwoikiou
+92.12.10.2026|Guwei Uti
+92.12.10.2027|Ntap
+92.12.10.2028|Monut
+92.12.10.2029|Mbrande
+92.71|KOTA SORONG
+92.71.01|Sorong
+92.71.01.1001|Remu Utara
+92.71.01.1002|Klademak
+92.71.01.1007|Kofkerbu
+92.71.01.1008|Remu
+92.71.02|Sorong Timur
+92.71.02.1008|Klawalu
+92.71.02.1010|Klamana
+92.71.02.1011|Klawuyuk
+92.71.02.1013|Kladufu
+92.71.03|Sorong Barat
+92.71.03.1002|Rufei
+92.71.03.1005|Klawasi
+92.71.03.1006|Puncak Cendrawasih
+92.71.03.1007|Pal Putih
+92.71.04|Sorong Kepulauan
+92.71.04.1001|Dum Barat
+92.71.04.1002|Dum Timur
+92.71.04.1003|Soop
+92.71.04.1004|Raam
+92.71.05|Sorong Utara
+92.71.05.1002|Malanu
+92.71.05.1007|Malasilen
+92.71.05.1010|Matalamagi
+92.71.05.1011|Sawagumu
+92.71.06|Sorong Manoi
+92.71.06.1001|Klaligi
+92.71.06.1002|Malawei
+92.71.06.1003|Malabutor
+92.71.06.1004|Remu Selatan
+92.71.06.1005|Klasabi
+92.71.07|Sorong Kota
+92.71.07.1001|Kampung Baru
+92.71.07.1002|Klabala
+92.71.07.1003|Klasuur
+92.71.07.1004|Klakublik
+92.71.08|Klaurung
+92.71.08.1001|Klasuat
+92.71.08.1002|Klablim
+92.71.08.1003|Klasaman
+92.71.08.1004|Giwu
+92.71.09|Malaimsimsa
+92.71.09.1001|Klagete
+92.71.09.1004|Malaingkedi
+92.71.09.1005|Malamso
+92.71.09.1006|Klabulu
+92.71.10|Maladum Mes
+92.71.10.1001|Suprau
+92.71.10.1002|Tampa Garam
+92.71.10.1003|Saoka
+92.71.10.1004|Tanjung Kasuari
