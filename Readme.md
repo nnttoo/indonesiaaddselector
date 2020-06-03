@@ -1,6 +1,6 @@
 # Indonesia Address Selector Pure JS #
 
-Make an address selector on your website, for shipping addresses or something like that, with pure javascript and static files without a database.
+Make an Indonesian address selector on your website, for shipping addresses or something like that, with pure javascript and static files without a database.
 
 ## Demo
 [Demo Page](https://nnttoo.github.io/indonesiaaddselector/)
