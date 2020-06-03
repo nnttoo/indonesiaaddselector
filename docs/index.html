@@ -2,37 +2,70 @@
 <html>
     <head>
         <title>Indonesia Address Selector Pure Js</title>
-        <style>
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
+        <style> 
             select{
                 padding: 5px;
-                min-width: 300px;
+                width: 200px;
+            }
+            #ctn{
+                margin-left: auto;
+                margin-right: auto;
+                background-color: rgb(205, 252, 236);
+                padding: 10px;
+                max-width: 900px;
+                border: solid 1px #ccc;
             }
         </style>
     </head>
     <body>
-        <h1>Pilih Alamat</h1>
-        <table>
-            <tr>
-                <td>Provinsi</td>
-                <td>:</td>
-                <td> <select id="provselect" class="locselector" data-childid="kotaselect"></select></td>
-            </tr> 
-            <tr>
-                <td>Kabupaten/Kota</td>
-                <td>:</td>
-                <td> <select id="kotaselect" class="locselector" data-childid="kecselect" data-loaderfun="getKab" data-defmsg="Pilih Kabupaten"></select></td>
-            </tr> 
-            <tr>
-                <td>Kecamatan</td>
-                <td>:</td>
-                <td> <select id="kecselect" class="locselector" data-childid="desselect" data-loaderfun="getKec" data-defmsg="Pilih Kecamatan"></select></td>
-            </tr> 
-            <tr>
-                <td>Desa</td>
-                <td>:</td>
-                <td> <select id="desselect" class="locselector" data-loaderfun="getDes"  data-defmsg="Pilih Desa" ></select></td>
-            </tr> 
-        </table> 
+        <div id="ctn">
+            <h1>Pilih Alamat</h1>
+            <table>
+                <tr>
+                    <td>Provinsi</td>
+                    <td>:</td>
+                    <td> <select id="provselect" class="locselector" data-childid="kotaselect"></select></td>
+                </tr> 
+                <tr>
+                    <td>Kabupaten/Kota</td>
+                    <td>:</td>
+                    <td> <select id="kotaselect" class="locselector" data-childid="kecselect" data-loaderfun="getKab" data-defmsg="Pilih Kabupaten"></select></td>
+                </tr> 
+                <tr>
+                    <td>Kecamatan</td>
+                    <td>:</td>
+                    <td> <select id="kecselect" class="locselector" data-childid="desselect" data-loaderfun="getKec" data-defmsg="Pilih Kecamatan"></select></td>
+                </tr> 
+                <tr>
+                    <td>Desa</td>
+                    <td>:</td>
+                    <td> <select id="desselect" class="locselector" data-loaderfun="getDes"  data-defmsg="Pilih Desa" ></select></td>
+                </tr> 
+            </table> 
+
+
+            <h3>Html example</h3>
+    
+            <script src="https://gist.github.com/nnttoo/9742e54154760e3572786db53daf3c32.js"></script>
+
+            <div>
+                <h3>Haryanto</h3>
+                <table>
+                    <tr>
+                        <td>Youtube Channel</td>
+                        <td>:</td>
+                        <td><a href="https://www.youtube.com/channel/UCcDrmqribHfdwwKzfM5LlEQ">Youtube</a></td>
+                    </tr>
+                    <tr>
+                        <td>Medium</td>
+                        <td>:</td>
+                        <td><a href="https://medium.com/@antoharyanto">Medium</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        
 
 
         <script
@@ -102,9 +135,5 @@
                 })
             });
         </script>
-
-        <h3>Html example</h3>
- 
-        <script src="https://gist.github.com/nnttoo/9742e54154760e3572786db53daf3c32.js"></script>
     </body>
 </html>
