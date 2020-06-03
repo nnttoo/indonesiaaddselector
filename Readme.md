@@ -6,9 +6,9 @@ Make an Indonesian address selector on your website, for shipping addresses or s
 [Demo Page](https://nnttoo.github.io/indonesiaaddselector/)
 
 
-If you want to save it on your server, use the docs folder, there are already data files and javascript ready to use for your website.
+Data for all districts and cities for all of Indonesia is relatively small, we don't need to use databases like mysql for things like this.
 
-If you want it to be easier, just leave the data file here, and use the src script that points to this github page, but I don't know to what extent the github page can be relied on for multiple websites.
+I recommend you copy the <b>docs</b> folder on your own hosting, but to make it easy, you can also use the src script tag that points to this github page, although I don't know the extent to which the github page can be relied upon if used for many websites.
 
 
 Examples of uses :
