@@ -45,7 +45,7 @@ module.exports = {
         minimize: true
     },
     output: {
-        path: resolve('../views/js'),
+        path: resolve('../docs/js'),
         publicPath: '',
         library: 'indoselector', 
         filename: 'bundle[name].js' 
