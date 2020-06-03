@@ -39,6 +39,7 @@ Examples of uses :
 ```
 
 ## List Function
+All functions must be accessed in a callback load, to ensure everything is prepared. see the example above
 
 ### getProv(callback)
 take all provincies
