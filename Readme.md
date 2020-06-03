@@ -17,21 +17,25 @@ I recommend you copy the **docs** folder on your own hosting, but to make it eas
 
 Examples of uses :
 ```html
-    <script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleview.js"></script>
-    <script>
-         var loader = new indoselector.KotaIndoSelector();
-            loader.server = "https://nnttoo.github.io/indonesiaaddselector/loader.html"
- 
+<html>
+<body>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" ></script>
+<script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleview.js"></script>   
+<script>
+     var loader = new indoselector.KotaIndoSelector();
+        loader.server = "https://nnttoo.github.io/indonesiaaddselector/loader.html" 
 
-            loader.load(function(){    
-                    loader.getProv(function(data){
-                        data.forEach(codename){
-                            console.log(codename.code) // print code
-                            console.log(codename.name) // print name
-                        }
+        loader.load(function(){    
+                loader.getProv(function(data){
+                    data.forEach(function(codename){
+                        console.log(codename.code) // print code
+                        console.log(codename.name) // print name
                     })
-            });
-    </script>
+                })
+        });
+</script>
+</body> 
+</html>
 ```
 
 ## List Function
@@ -41,10 +45,10 @@ take all provincies
 example : 
 ```js
     loader.getProv(function(data){
-        data.forEach(codename){
+        data.forEach(function(codename){
             console.log(codename.code) // print code
             console.log(codename.name) // print name
-        }
+        })
     })
 ```
 
@@ -53,10 +57,10 @@ get all kabupaten/kota that matches the code
 example : 
 ```js
     loader.getKab("11",function(data){
-        data.forEach(codename){
+        data.forEach(function(codename){
             console.log(codename.code) // print code
             console.log(codename.name) // print name
-        }
+        })
     })
 ```
 
