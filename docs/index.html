@@ -57,27 +57,39 @@
                 <tr>
                     <td>Provinsi</td>
                     <td>:</td>
-                    <td> <select id="provselect" class="locselector" data-childid="kotaselect"></select></td>
+                    <td> <select class="locselector" id="provselect" data-childselectors="kotaselect|kecselect|desselect"></select></td>
                 </tr> 
                 <tr>
                     <td>Kabupaten/Kota</td>
                     <td>:</td>
-                    <td> <select id="kotaselect" class="locselector" data-childid="kecselect" data-loaderfun="getKab" data-defmsg="Pilih Kabupaten"></select></td>
+                    <td> <select class="locselector"  id="kotaselect"></select></td>
                 </tr> 
                 <tr>
                     <td>Kecamatan</td>
                     <td>:</td>
-                    <td> <select id="kecselect" class="locselector" data-childid="desselect" data-loaderfun="getKec" data-defmsg="Pilih Kecamatan"></select></td>
+                    <td> <select class="locselector"  id="kecselect"></select></td>
                 </tr> 
                 <tr>
                     <td>Desa</td>
                     <td>:</td>
-                    <td> <select id="desselect" class="locselector" data-loaderfun="getDes"  data-defmsg="Pilih Desa" ></select></td>
+                    <td> <select class="locselector"  id="desselect"></select></td>
                 </tr> 
             </table> 
-
+            <br>
+            <button onclick="tampilAlamat()">Get Alamat</button>
 
             <h3>Html example</h3>
+
+            <script>
+                function tampilAlamat(){
+                    var alm = indoselectorviewimplement.getAlamat();
+                    if(alm.error != ""){
+                        alert(alm.error);
+                        return;
+                    }
+                    alert(alm.alamat)
+                }
+            </script>
     
             <script src="https://gist.github.com/nnttoo/9742e54154760e3572786db53daf3c32.js"></script>
 
