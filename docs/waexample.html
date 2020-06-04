@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Indonesia Address Selector Pure Js  Whatsapp example</title>
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
+        <meta name="description" content="Make an Indonesian address selector on your website, whatsapp example">
+       
+        <style>
+            select{   width: 100%; -moz-box-sizing: border-box;  -webkit-box-sizing: border-box;   box-sizing: border-box; }
+            #ctn{ max-width: 700px; margin-left: auto;  margin-right: auto; text-align: center; background-color: #94bdbd; }
+            table{ display: inline-block; }
+            td{ text-align: left; }
+            textarea{
+                width: 100%; -moz-box-sizing: border-box;  -webkit-box-sizing: border-box;   box-sizing: border-box; 
+            }
+        </style>
+    </head>
+    <body>
+        <div id="ctn">
+            <h1>Pilih Alamat</h1>
+            <table>
+                <tr><td>Provinsi</td><td>:</td>
+                    <td> <select id="provselect" class="locselector" data-childselectors="kotaselect|kecselect|desselect"></select></td>
+                </tr> 
+                <tr><td>Kabupaten/Kota</td><td>:</td>
+                    <td> <select id="kotaselect" class="locselector"></select></td>
+                </tr> 
+                <tr><td>Kecamatan</td><td>:</td>
+                    <td> <select id="kecselect" class="locselector"></select></td>
+                </tr> 
+                <tr><td>Desa</td><td>:</td>
+                    <td> <select id="desselect" class="locselector"></select></td>
+                </tr> 
+                <tr><td>Lengkap</td><td>:</td>
+                    <td> <textarea id="lengkaparea" ></textarea></td>
+                </tr> 
+            </table> <br>
+            <button onclick="tampilAlamat()">Send to WA</button> 
+            <script>
+                function tampilAlamat(){
+                    var alm = indoselectorviewimplement.getAlamat();
+                    if(alm.error != ""){
+                        alert(alm.error);
+                        return;
+                    }
+
+                    var lengkapval = $('#lengkaparea').val();
+                    if(lengkapval == ""){
+                        alert("masukan alamat lengkap");
+                        return;
+                    }
+
+                    var dcode = encodeURIComponent(alm.alamat + lengkapval) ;
+                    var url = "https://wa.me/6281253896501?text=" + dcode;
+                    window.open(url, '_blank'); 
+                }
+            </script>
+        </div>
+
+        <script  src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleclient.js"></script>
+        <script src="https://nnttoo.github.io/indonesiaaddselector/js/bundleviewimplement.js"></script>  
+    </body>
+</html>
